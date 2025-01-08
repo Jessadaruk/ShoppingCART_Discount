@@ -1,7 +1,7 @@
 # ShoppingCart
 
 
-![ตัวอย่า](SP-cartNewdiscount/Screenshot 2025-01-08 134752.png)
+![ตัวอย่า](https://github.com/Jessadaruk/ShoppingCART_Discount/blob/main/SP-cartNewdiscount/Screenshot%202025-01-08%20134752.png))
 
 ### คำอธิบาย
 โปรแกรม Shopping Cart แสดงตัวอย่างการคำนวณ กาแฟและชาเขียว โดยรับค่าจากกล่องข้อความ ราคา และจำนวณเงิน จะเลือกเฉพาะรายการที่กด checkbox แล้วกดคำนวณราคา แสดงผลที่ Total
